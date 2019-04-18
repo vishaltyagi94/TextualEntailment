@@ -1,4 +1,4 @@
-# TextualEntailment
+# Textual Entailment
 A quick LSTM neural network implementation to identify textual entailment in a pair of sentences.
 
 ### Note: -
